@@ -8,13 +8,13 @@
                                 <a href="aboutme.html" > about me </a>
                         </li>
                         <li>
-                                <a href="projects.html" > about me </a>
+                                <a href="projects.html" > projects </a>
                         </li>
                         <li>
-                                <a href="publications.html" > about me </a>
+                                <a href="publications.html" > publications </a>
                         </li>
                         <li>
-                                <a href="updates.html" > about me </a>
+                                <a href="updates.html" > updates </a>
                         </li>
                 </ul>
         </nav>
