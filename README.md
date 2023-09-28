@@ -3,7 +3,7 @@
 <html>
 <body>
 
-div class="menu" > 
+< div class="menu" > 
         <div> 
           <nav>
             <ul>
@@ -14,9 +14,9 @@ div class="menu" >
           </nav>
         </div>
 
-<h1>My First Heading</h1>
+<h1> Anika Bukkapatnam </h1>
 
-<p>My first paragraph.</p>
+<p> where science meets social justice </p>
 
 </body>
 </html>
