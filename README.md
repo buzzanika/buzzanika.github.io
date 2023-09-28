@@ -1,5 +1,4 @@
 # buzzanika.github.io
-<!DOCTYPE html>
 <html>
 <body>
 
