@@ -3,16 +3,15 @@
 <html>
 <body>
 
-< div class="menu" > 
-        <div> 
-          <nav>
-            <ul>
-              <li>
-              <a href="mainpage.html" > about me </a>
-              </li>
-            </ul>
-          </nav>
-        </div>
+<div> 
+        <nav>
+                <ul>
+                        <li>
+                                <a href="mainpage.html" > about me </a>
+                        </li>
+                </ul>
+        </nav>
+</div>
 
 <h1> Anika Bukkapatnam </h1>
 
