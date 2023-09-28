@@ -5,7 +5,10 @@
         <nav>
                 <ul>
                         <li>
-                                <a href="mainpage.html" > about me </a>
+                                <a href="aboutme.html" > about me </a>
+                        </li>
+                        <li>
+                                <a href="aboutme.html" > about me </a>
                         </li>
                 </ul>
         </nav>
