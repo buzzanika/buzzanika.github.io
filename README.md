@@ -1,7 +1,6 @@
 # buzzanika.github.io
 <html>
 <body>
-
 <div> 
         <nav>
                 <ul>
@@ -12,7 +11,7 @@
         </nav>
 </div>
 
-<h1> Anika Bukkapatnam </h1>
+        <h1> Anika Bukkapatnam </h1>
 
 <p> where science meets social justice </p>
 
